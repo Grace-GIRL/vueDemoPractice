@@ -30,3 +30,8 @@ slot标签（具名slot，匿名slot，作用于插槽（列表组件允许组�
 解决办法：
 git config --global core.autocrlf false
 再执行git 提交
+
+
+7.github 提示安全隐患 还是package.json 里面包的版本的问题
+
+8.页面某些功能未实现
